@@ -20,7 +20,7 @@ With this commitment to continual learning, I am dedicated to providing top-notc
 
 <a href="https://www.linkedin.com/in/abid-ullah-ba9b5b22b/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Abidullah | LinkedIn" width="30px"/></a>
 <a href="https://www.instagram.com/ak.abidkhan11/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Abidullah | Instagram" width="30px"/></a>
-<a href="https://abidullah.me"><img align="left" src="https://abidullah.me/dp.jpg" alt="Abidullah | Instagram" width="30px"/></a>
+<a href="https://abidullah.me"><img align="left" src="https://abidullah.me/dp.jpg" alt="Abidullah | Instagram" width="30px" style={{borderRadius:"10px"}}/></a>
 
 </br>
 </br>
