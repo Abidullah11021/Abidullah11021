@@ -3,11 +3,11 @@
 </div>
 
 <h1 align="center">
-Hi there, I'm <a  target="_blank" rel="noreferrer">Abid Ullah</a> 👋
+Hi there, I'm <a target="_blank" rel="noreferrer">Abid Ullah</a> 👋
 </h1> 
 
 <div align="center" display="flex">
-<img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="150" />
 </div> 
 
 As a seasoned Flutter developer with two years of experience under my belt, I pride myself on my proficiency in utilizing the Flutter framework and Dart language. Having already mastered the GetX and Provider state management techniques, I am now focused on furthering my knowledge by learning the Riverpod state management tool.
@@ -23,13 +23,11 @@ With this commitment to continual learning, I am dedicated to providing top-notc
 <a href="https://abidullah.me">
   <img 
     align="left" 
-    src="https://abidullah.me/dp.jpg" 
+    src="https://abidullah.me/dp.png" 
     alt="Abidullah | Portfolio" 
-    width="30px" 
-    style="border-radius: 50%;" 
+    width="30px"
   />
 </a>
-
 
 </br>
 </br>
@@ -38,10 +36,10 @@ With this commitment to continual learning, I am dedicated to providing top-notc
 
 ### 🛠 &nbsp;Languages and Tools :
 
-   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase,tailwindcss,git" />
-
+<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,tailwindcss,git" />
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Abidullah11021)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Abidullah11021&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abidullah11021&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
