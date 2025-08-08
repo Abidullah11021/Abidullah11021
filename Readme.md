@@ -40,5 +40,5 @@ With this commitment to continual learning, I am dedicated to providing top-notc
 
 ### 🔥 &nbsp; My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abidullah11021&mode=weekly&hide_total_contributions=true)](https://git.io/streak-stats)
+<a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=Abidullah11021&mode=weekly&hide_total_contributions=true" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abidullah11021&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
