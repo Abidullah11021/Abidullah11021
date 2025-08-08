@@ -10,7 +10,11 @@ Hi there, I'm <a  target="_blank" rel="noreferrer">Abid Ullah</a> 👋
 <img src="https://media.giphy.com/media/iOdhk1BSNJ7PsQRUN3/giphy.gif" width="150" />
 </div> 
 
-As a full-stack web developer, I’m dedicated to building seamless, user-focused digital experiences from start to finish. I thrive on solving complex problems and creating intuitive, engaging websites. My goal is to deliver impactful solutions that help businesses grow and connect with their audience.
+As a seasoned Flutter developer with two years of experience under my belt, I pride myself on my proficiency in utilizing the Flutter framework and Dart language. Having already mastered the GetX and Provider state management techniques, I am now focused on furthering my knowledge by learning the Riverpod state management tool.
+
+I have set a goal for myself to learn and understand all available state management techniques, as I understand that each approach has its own unique strengths and drawbacks, and that selecting the right tool for a given project can greatly impact its success.
+
+With this commitment to continual learning, I am dedicated to providing top-notch app development services to my clients, while leveraging my expertise in state management to ensure that their projects are optimized for performance and scalability.
 
 ### 🤝 &nbsp; Connect with me:
 
@@ -28,6 +32,6 @@ As a full-stack web developer, I’m dedicated to building seamless, user-focuse
 
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=abidullah11021&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Abidullah11021&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abidullah11021&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Abidullah11021&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
