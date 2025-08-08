@@ -23,7 +23,7 @@ With this commitment to continual learning, I am dedicated to providing top-notc
 <a href="https://abidullah.me">
   <img 
     align="left" 
-    src="https://abidullah.me/dp.png" 
+    src="https://abidullah.me/dp.jpg" 
     alt="Abidullah | Portfolio" 
     width="30px"
   />
